@@ -1,0 +1,22 @@
+{"slug":"logistics","kind":"industry","crumb":"Logistics and transport","eyebrow":"Industries",
+"meta":["Logistics Software Development | Argix","Logistics and transport software development: dispatch and route planning, tracking portals, driver apps, ERP integrations and dashboards, built secure."],
+"h1":"Custom software for logistics and transport companies","lead":"We build dispatch systems, shipment tracking portals and driver apps, using the same secure development process we use for our healthcare and SaaS clients.",
+"chipsTop":{"label":"Key standards","items":["OWASP Top 10","ISO/IEC 27001","GDPR"]},
+"blocks":[
+{"t":"cards","h2":"What we can build","items":[
+{"h3":"Dispatch and route planning","p":"Assign jobs, plan routes and see what every vehicle and driver is doing."},
+{"h3":"Shipment tracking portals","p":"Let customers track deliveries themselves, with automatic notifications."},
+{"h3":"Driver and field apps","p":"Mobile apps for delivery confirmation, photos, signatures and job updates.","link":["See mobile app development","mobile-app-development"]},
+{"h3":"Warehouse and inventory integrations","p":"Stock and order data kept in sync with the systems you already use."},
+{"h3":"Carrier, ERP and partner integrations","p":"Connections to carriers, tracking providers and your ERP.","link":["See APIs and integrations","api-integration"]},
+{"h3":"Operations dashboards","p":"Live views of deliveries, delays and performance for managers."}]},
+{"t":"lists","h2":"Built secure","cols":[
+{"h3":"Protecting your data","items":["Role-based access for staff, drivers and customers","Protection of customer and location data","Secure APIs for carriers and partners"]},
+{"h3":"Before and after launch","items":["API security testing","Penetration test before launch","Monitoring and backups after launch"]}]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Have you built logistics software before?","Our projects so far have been in healthcare and technology. The systems logistics companies need, like portals, mobile apps, integrations and dashboards, use the same engineering, and we can walk you through comparable work on a call."],
+["Can you connect to the systems we already use?","Yes. We integrate with ERPs, carriers and tracking providers through their APIs, or build a connector when there is none."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Mobile app development","p":"Secure iOS and Android apps connected to your systems.","link":["See mobile app development","mobile-app-development"]},
+{"h3":"APIs and integrations","p":"Secure APIs that connect payments, CRMs, ERPs and partners.","link":["See APIs and integrations","api-integration"]},
+{"h3":"Web application development","p":"Portals, dashboards and business systems on .NET and Angular.","link":["See web application development","web-app-development"]}]}]}

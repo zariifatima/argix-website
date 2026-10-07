@@ -1,0 +1,27 @@
+{"slug":"cybersecurity","kind":"service","crumb":"Cybersecurity services","eyebrow":"Cybersecurity",
+"meta":["Cybersecurity Services and Consulting | Argix","Cybersecurity services: penetration testing, GRC and compliance, SOC monitoring, vCISO, digital forensics and secure engineering."],
+"h1":"Cybersecurity services, from assessment to ongoing protection","lead":"Testing, governance, monitoring and security leadership from a team of certified engineers. Start with one service, or bring us in as your security department.",
+"flow":["Continuous","Assess","Fix","Comply","Monitor"],
+"blocks":[
+{"t":"cards","h2":"Our security services","items":[
+{"h3":"Penetration testing (VAPT)","p":"Hands-on testing of web apps, APIs, mobile apps, networks and cloud, ending in a report and a retest.","link":["See penetration testing","penetration-testing"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness, from gap assessment to audit support.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"SOC monitoring","p":"Level 1 monitoring and triage on LogRhythm, QRadar, Sentinel, Elastic or Wazuh.","link":["See SOC monitoring","soc-monitoring"]},
+{"h3":"vCISO and outsourced security","p":"Security leadership, program management or a complete outsourced security department.","link":["See vCISO services","vciso"]},
+{"h3":"Secure engineering","p":"Secure SDLC implementation, security architecture review, threat modeling and CI/CD hardening."},
+{"h3":"Security audits and risk assessments","p":"Independent review of your controls, policies and exposure, with a ranked action plan."}]},
+{"t":"cards","id":"forensics","h2":"Digital forensics and incident response","lead":"For when something has already gone wrong, and for preparing before it does.","items":[
+{"h3":"Digital evidence collection and analysis","p":"Careful collection and analysis of evidence from devices, servers and cloud accounts."},
+{"h3":"Endpoint and mobile forensics","p":"Investigation of laptops, servers and mobile devices."},
+{"h3":"Log and artifact investigation","p":"Reconstructing what happened from logs, files and system artifacts."},
+{"h3":"Malware analysis and reverse engineering","p":"Understanding what malicious code does and how it got in."},
+{"h3":"Incident response planning and support","p":"Written plans, rehearsals and hands-on help during an incident."},
+{"h3":"Forensic reporting","p":"Clear reports for management, insurers and legal teams, with expert testimony where required."}]},
+{"t":"chips","h2":"Frameworks we align with","items":["ISO/IEC 27001:2022","SOC 2","HIPAA","PCI DSS","NIST Cybersecurity Framework","OWASP Top 10","GDPR"],"link":["See the certifications held by our team","certifications"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Where should we start?","A penetration test or a gap assessment against the framework you need are the usual first steps. Both give you a clear list of what to fix and in what order."],
+["Do you offer one-off work and ongoing support?","Both. Many clients start with a single assessment and move to monitoring, vCISO support or annual testing."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Custom software development","p":"Web, mobile and API software with security built in.","link":["See custom software development","custom-software"]},
+{"h3":"AI solutions","p":"AI features, AI security testing and AI governance.","link":["See AI solutions","ai-solutions"]},
+{"h3":"Healthcare","p":"EHR, interoperability, AI and digital health software.","link":["See healthcare solutions","healthcare"]}]}]}

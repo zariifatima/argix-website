@@ -1,0 +1,19 @@
+{"slug":"vciso","kind":"service","crumb":"vCISO and outsourced security","eyebrow":"Cybersecurity",
+"meta":["vCISO and Outsourced Security Services | Argix","Virtual CISO (vCISO) services and outsourced information security department: strategy, risk, compliance programs and security operations on demand."],
+"h1":"vCISO and outsourced information security department","lead":"Senior security leadership and a working security function, without the cost of hiring a full team. Choose the level that fits where you are today.",
+"flow":["vCISO","Security program","Full security department"],"flowNote":"More support at each level",
+"blocks":[
+{"t":"cards","h2":"Three ways to work with us","items":[
+{"h3":"Virtual CISO (vCISO)","p":"A senior security leader for an agreed number of hours each month. Security strategy and roadmap, risk management, board and investor reporting, vendor security reviews and compliance guidance."},
+{"h3":"Security program management","p":"We run the day-to-day program for you: policies and procedures, risk register, security awareness training, vendor risk, incident response planning and compliance tracking."},
+{"h3":"Full outsourced security department","p":"A complete information security function for organizations that do not have one, covering governance, risk and compliance, security testing and monitoring under one agreement."}]},
+{"t":"bullets","h2":"What a vCISO does","items":["Builds a security strategy tied to your business goals","Owns and maintains your risk register","Leads compliance programs such as SOC 2 and ISO 27001","Prepares board and investor security updates","Answers customer security questionnaires","Reviews vendors and new projects before they launch","Plans and rehearses incident response"]},
+{"t":"chips","h2":"A good fit for","items":["Startups approaching their first enterprise customers","Growing companies preparing for SOC 2 or ISO 27001","Healthcare and fintech firms without a security leader","Organizations that need cover while hiring"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["How is a vCISO different from a full-time CISO?","You get the same seniority and decisions on a part-time basis, at a fraction of the cost. It suits organizations that need leadership but not a full-time executive."],
+["How many hours will we need?","It depends on your size and goals. We agree a monthly allocation after a short assessment, and adjust as your needs change."],
+["Can you work with our IT team?","Yes. We work alongside your IT and engineering teams and set clear ownership for each security task."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"SOC monitoring","p":"Level 1 monitoring and triage on the SIEM you already run.","link":["See SOC monitoring","soc-monitoring"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

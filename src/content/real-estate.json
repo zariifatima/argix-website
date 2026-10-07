@@ -1,0 +1,22 @@
+{"slug":"real-estate","kind":"industry","crumb":"Real estate and property tech","eyebrow":"Industries",
+"meta":["Real Estate Software Development | Argix","Real estate and property tech software: listing portals, tenant and owner portals, agent CRMs, online rent payments and document signing, built secure."],
+"h1":"Software for real estate and property businesses","lead":"We build listing portals, tenant and owner portals and agent CRMs, using the same secure development process we use for our healthcare and SaaS clients.",
+"chipsTop":{"label":"Key standards","items":["PCI DSS","OWASP Top 10","GDPR"]},
+"blocks":[
+{"t":"cards","h2":"What we can build","items":[
+{"h3":"Property listing portals and websites","p":"Searchable listings with photos, maps and enquiry forms.","link":["See websites and e-commerce","websites-ecommerce"]},
+{"h3":"Tenant and owner portals","p":"Self-service portals for rent, requests, documents and statements."},
+{"h3":"CRMs for agents","p":"Leads, viewings, deals and follow-ups in one place."},
+{"h3":"Online rent and payment collection","p":"Rent, deposits and fees collected online through your payment provider."},
+{"h3":"Viewing and booking scheduling","p":"Let buyers and tenants book viewings without back-and-forth calls."},
+{"h3":"Document and e-signature integrations","p":"Leases and contracts prepared, signed and stored online."}]},
+{"t":"lists","h2":"Built secure","cols":[
+{"h3":"Protecting your data","items":["Protection of personal and financial data","Payment security, with card data kept with the payment provider","Role-based access for agents, owners and tenants"]},
+{"h3":"Before and after launch","items":["Penetration test before launch","Secure hosting and backups","Monitoring after launch"]}]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Have you built real estate software before?","Our projects so far have been in healthcare and technology. Real estate portals, CRMs and payment systems use the same engineering, and we can walk you through comparable work on a call."],
+["Can you take rent payments online?","Yes. We integrate your payment provider so card details stay with them, which keeps your PCI DSS scope small."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Websites and e-commerce","p":"Fast, secure WordPress sites and WooCommerce stores.","link":["See websites and e-commerce","websites-ecommerce"]},
+{"h3":"Web application development","p":"Portals, dashboards and business systems on .NET and Angular.","link":["See web application development","web-app-development"]},
+{"h3":"Mobile app development","p":"Secure iOS and Android apps connected to your systems.","link":["See mobile app development","mobile-app-development"]}]}]}

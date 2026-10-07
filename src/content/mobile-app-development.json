@@ -1,0 +1,23 @@
+{"slug":"mobile-app-development","kind":"service","crumb":"Mobile app development","eyebrow":"Software development",
+"meta":["Mobile App Development for iOS and Android | Argix","Mobile app development for iOS and Android: secure login, encrypted storage, App Store and Google Play publishing, and mobile security testing."],
+"h1":"Mobile apps for iOS and Android","lead":"Customer, staff and field apps with secure login, encrypted data and a security test before they reach the app stores.",
+"flow":["Phone app","Secure API","Cloud"],
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"Customer apps","p":"Apps your customers use to book, buy, track and get support."},
+{"h3":"Staff and field apps","p":"Tools for teams on the move, from inspections to deliveries."},
+{"h3":"Patient and banking apps","p":"Apps for regulated sectors, where security and privacy matter most."},
+{"h3":"Offline mode and sync","p":"Apps that keep working without a connection and sync when back online."},
+{"h3":"Push notifications","p":"Timely alerts and reminders that bring users back to the app."},
+{"h3":"App Store and Google Play publishing","p":"Store listings, submission and help with review feedback."}]},
+{"t":"lists","h2":"Security built in","cols":[
+{"h3":"In the app","items":["Secure login, including fingerprint and face unlock","Encrypted data on the phone","Secure connections to your back end","No secrets stored in the app"]},
+{"h3":"Before release","items":["Mobile app security testing","Testing of the APIs behind the app","Device and operating system testing","Store submission and review support"]}]},
+{"t":"chips","h2":"Back end and cloud","items":[".NET","Python","REST and GraphQL APIs","Azure","AWS"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Can you add a mobile app to our existing system?","Yes. We connect the app to your existing systems through secure APIs, or build those APIs if they do not exist yet."],
+["Do you publish to the App Store and Google Play?","Yes. We prepare the store listings, handle submission and help with any review feedback."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"APIs and integrations","p":"Secure APIs that connect payments, CRMs, ERPs and partners.","link":["See APIs and integrations","api-integration"]},
+{"h3":"Web application development","p":"Portals, dashboards and business systems on .NET and Angular.","link":["See web application development","web-app-development"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

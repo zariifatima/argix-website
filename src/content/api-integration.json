@@ -1,0 +1,23 @@
+{"slug":"api-integration","kind":"service","crumb":"APIs and integrations","eyebrow":"Software development",
+"meta":["API Development and Integration Services | Argix","API development and integration services: REST and GraphQL APIs, payment, CRM and ERP integrations on .NET, Python and Laravel, with API security testing."],
+"h1":"APIs and integrations that connect your systems securely","lead":"Well-documented APIs and reliable connections between your software, your partners and the services you depend on.",
+"flow":["Payments","CRM","ERP","Partner systems","Your API"],
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"REST and GraphQL APIs","p":"Clean, versioned APIs for your apps, partners and customers."},
+{"h3":"Payment gateway integrations","p":"Checkout, subscriptions, refunds and payouts through your payment provider."},
+{"h3":"CRM and ERP connections","p":"Customer, order and finance data kept in sync across systems."},
+{"h3":"Healthcare integrations","p":"Connections to EHRs, labs and pharmacies through HL7 and FHIR.","link":["See healthcare solutions","healthcare"]},
+{"h3":"Banking and fintech integrations","p":"Secure links to banks, processors and financial data providers.","link":["See fintech and financial services","fintech"]},
+{"h3":"Partner and third-party APIs","p":"Integrations with the services your business depends on."}]},
+{"t":"lists","h2":"Secure and reliable by design","cols":[
+{"h3":"Security","items":["Secure authentication and authorization","Limits on how often an API can be called","Input validation on every request","API penetration testing"]},
+{"h3":"Reliability","items":["Clear documentation for developers","Versioning so updates do not break partners","Monitoring and alerts","Retry and error handling for third-party services"]}]},
+{"t":"chips","h2":"Technology","items":[".NET","Python","Django","FastAPI","Laravel","REST","GraphQL","Microservices"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Can you connect systems that do not have an API?","Often, yes. Depending on the system we use its export files, its database or a small connector service, and we explain the trade-offs first."],
+["Do you document the APIs you build?","Yes. Every API comes with documentation your developers and partners can use."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Web application development","p":"Portals, dashboards and business systems on .NET and Angular.","link":["See web application development","web-app-development"]},
+{"h3":"Fintech and financial services","p":"Payments, lending, onboarding and digital banking software with strong security.","link":["See fintech and financial services","fintech"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

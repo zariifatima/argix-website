@@ -1,0 +1,23 @@
+{"slug":"web-app-development","kind":"service","crumb":"Web application development","eyebrow":"Software development",
+"meta":["Web Application Development Services | Argix","Web application development on ASP.NET Core and Angular: portals, dashboards and business systems, secure by design and tested before launch."],
+"h1":"Web applications built for how your business works","lead":"Customer portals, internal systems and dashboards, built on proven enterprise technology and secured from the first design.",
+"flow":["Browser","API","Database"],
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"Customer and partner portals","p":"Self-service portals where customers and partners log in, manage accounts and track requests."},
+{"h3":"Internal business systems","p":"Admin panels and workflow tools that replace spreadsheets and email threads."},
+{"h3":"Real-time dashboards","p":"Live reporting on operations, sales and performance, with role-based views."},
+{"h3":"Progressive web apps","p":"Fast, app-like web experiences that work across desktop and mobile."},
+{"h3":"Legacy modernization","p":"Old systems rebuilt in stages, running side by side with the new one where needed."},
+{"h3":"Integrations","p":"Connections to the payment, CRM and ERP systems you already use.","link":["See APIs and integrations","api-integration"]}]},
+{"t":"chips","h2":"Technology","items":["ASP.NET Core","Angular","Python","REST and GraphQL APIs","Microservices","Azure","AWS"]},
+{"t":"lists","h2":"Built in from the start","cols":[
+{"h3":"Security","items":["OWASP Top 10 protections","Role-based access control","Audit logs for sensitive actions","Content security policy and XSS hardening","Penetration test before launch"]},
+{"h3":"Quality","items":["WCAG 2.1 AA accessibility","Cross-browser and device testing","Performance and load testing","Automated tests"]}]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Can you rebuild our old system without stopping the business?","Yes. We modernize in stages, running old and new side by side where needed, so your team keeps working throughout."],
+["How long does a web application take?","It depends on scope. After a short discovery phase we give you a timeline and either a fixed-scope quote or a monthly rate."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"APIs and integrations","p":"Secure APIs that connect payments, CRMs, ERPs and partners.","link":["See APIs and integrations","api-integration"]},
+{"h3":"DevOps and cloud","p":"Secure pipelines, containers and cloud infrastructure.","link":["See DevOps and cloud","devops-cloud"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

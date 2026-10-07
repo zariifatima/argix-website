@@ -1,0 +1,29 @@
+{"slug":"healthcare","kind":"industry","crumb":"Healthcare","eyebrow":"Industries",
+"meta":["Healthcare Software Development and HIPAA Security | Argix","Healthcare software development: EHR platforms, HL7 and FHIR interoperability, AI scribe, RCM and virtual care, with HIPAA-aware security and testing."],
+"h1":"Healthcare software, interoperability and AI, built secure","lead":"We build and connect healthcare technology: EHR platforms, integrations, AI tools and digital health products. Clinical domain knowledge and senior engineering, with HIPAA-aware security throughout.",
+"chipsTop":{"label":"Key standards","items":["HL7","FHIR","SMART on FHIR","HIPAA"]},
+"blocks":[
+{"t":"cards","h2":"What we build","lead":"Six areas where healthcare organizations most often need a specialist partner.","items":[
+{"h3":"Healthcare software and EHR platforms","p":"Custom EHR and healthcare products covering patient management, provider workflows, clinical documentation and practice operations."},
+{"h3":"Interoperability and integrations","p":"HL7 v2 and v3 messaging (ADT, ORM, ORU), FHIR APIs, SMART on FHIR apps, C-CDA and CCD clinical documents, eCQM quality measures, HIEs and Direct messaging, labs, pharmacies, clearinghouses and DICOM imaging."},
+{"h3":"Healthcare AI","p":"AI scribe and ambient listening, document intelligence, healthcare chatbots and workflow automation, built into clinical and administrative workflows.","link":["See AI solutions","ai-solutions"]},
+{"h3":"Revenue cycle management","p":"Practice management, eligibility, charge capture, claims and X12 837 transactions, clearinghouse integrations, denial management, payment posting and RCM analytics."},
+{"h3":"Digital health and virtual care","p":"Telemedicine, embedded video visits, remote patient monitoring, chronic and transitional care management, patient portals, digital intake and medical device integrations."},
+{"h3":"Custom healthcare product engineering","p":"From product strategy and architecture to UX, engineering and production delivery of web, mobile and cloud healthcare products.","link":["See custom software development","custom-software"]}]},
+{"t":"lists","h2":"Security and compliance for healthcare","lead":"Patient data needs protection that is designed in, and proof that it works.","cols":[
+{"h3":"Protecting patient data","items":["PHI safeguards aligned with the HIPAA Security Rule","Encryption, access control and audit logging by design","Security testing of patient portals, apps and APIs","Secure healthcare cloud environments"]},
+{"h3":"Proving it","items":["HIPAA security risk analysis and gap assessment","Penetration test report for auditors and partners","Policies, training and vendor arrangements","Ongoing monitoring and incident response planning"]}]},
+{"t":"note","text":"HIPAA does not offer an official certification. We help you meet the requirements and document how you meet them."},
+{"t":"cards","h2":"Ways to work with us","items":[
+{"h3":"Healthcare product development partner","p":"We design, build and evolve your healthcare product, from concept to production."},
+{"h3":"Dedicated healthcare technology team","p":"Specialized healthcare engineers, analysts and designers dedicated to your organization."},
+{"h3":"Long-term technology partnership","p":"Ongoing collaboration on product direction, architecture and engineering."}]},
+{"t":"chips","h2":"Standards and terms we work with","items":["HL7 v2 and v3","FHIR","SMART on FHIR","C-CDA and CCD","USCDI","eCQM","X12 837","DICOM","HIPAA"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Can you integrate with an existing EHR?","Yes. We build integrations over HL7 and FHIR interfaces, and SMART on FHIR apps that run inside an existing EHR."],
+["Can you support ONC certification requirements?","Where your product needs it, we build against ONC Health IT certification criteria such as USCDI, FHIR and C-CDA and help you prepare for testing. Certification itself is granted through ONC-authorized bodies."],
+["Do you handle HIPAA compliance for us?","We help you build and test to the HIPAA Security Rule and prepare the documentation. Responsibility for compliance stays with your organization, and we work with your legal and compliance advisers."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"AI solutions","p":"AI features, AI security testing and AI governance.","link":["See AI solutions","ai-solutions"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

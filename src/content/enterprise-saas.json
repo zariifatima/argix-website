@@ -1,0 +1,23 @@
+{"slug":"enterprise-saas","kind":"industry","crumb":"Enterprise and SaaS","eyebrow":"Industries",
+"meta":["SaaS Development and SOC 2 Readiness | Argix","SaaS development and security: multi-tenant architecture, single sign-on, audit logs, SOC 2 and ISO 27001 readiness, and tenant isolation testing."],
+"h1":"Secure SaaS and enterprise software, ready for your customers' security reviews","lead":"We build SaaS products and the enterprise features large customers expect, then help you prove your security with SOC 2, ISO 27001 and penetration testing.",
+"chipsTop":{"label":"Key standards","items":["SOC 2","ISO/IEC 27001","SAML and OIDC","GDPR"]},
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"SaaS products","p":"Multi-tenant architecture, subscription billing and admin portals."},
+{"h3":"Enterprise features","p":"Single sign-on, role-based access, audit logs and data export, which large customers ask for."},
+{"h3":"APIs and integrations","p":"Public APIs and integrations with the tools your customers use.","link":["See APIs and integrations","api-integration"]},
+{"h3":"Cloud-native architecture","p":"Scalable infrastructure on Azure and AWS, defined in code.","link":["See DevOps and cloud","devops-cloud"]}]},
+{"t":"lists","h2":"Security and compliance for SaaS","lead":"Enterprise customers review your security before they sign. We help you pass.","cols":[
+{"h3":"Built-in controls","items":["Tenant isolation, so one customer never sees another's data","Security architecture review","CI/CD pipeline hardening","Encryption and key management"]},
+{"h3":"Proof for customers","items":["SOC 2 and ISO 27001 readiness","Penetration test report for procurement reviews","Help answering customer security questionnaires","Security gap analysis and remediation"]}]},
+{"t":"chips","h2":"Standards and terms we work with","items":["SOC 2","ISO/IEC 27001","Single sign-on (SAML, OIDC)","GDPR","OWASP ASVS"]},
+{"t":"note","text":"Building your first version? See our startups and MVPs page.","link":["Startups and MVPs","startups"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["A big customer asked for SOC 2. Where do we start?","With a gap assessment. It shows what you already have, what is missing and a realistic timeline. Many teams start with a Type I report and move to Type II."],
+["How do you test tenant isolation?","We test whether one customer's account can reach another customer's data through the app, the APIs or shared infrastructure, and report anything we find with a fix."],
+["Can you help us answer security questionnaires?","Yes. We help you answer them accurately and build a library of answers and evidence for next time."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"vCISO and outsourced security","p":"A security leader or a full security department, on demand.","link":["See vCISO services","vciso"]}]}]}

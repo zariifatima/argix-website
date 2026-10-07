@@ -1,0 +1,28 @@
+{"slug":"soc-monitoring","kind":"service","crumb":"SOC monitoring","eyebrow":"Cybersecurity",
+"meta":["SOC L1 Monitoring and SIEM Services | Argix","SOC Level 1 monitoring and triage on LogRhythm, IBM QRadar, Microsoft Sentinel, Elastic Security and Wazuh, with escalation and regular reporting."],
+"h1":"SOC L1 monitoring on the SIEM you already run","lead":"First-line security monitoring and triage, so alerts are reviewed, filtered and escalated by trained analysts instead of piling up unread.",
+"flow":["Log sources","SIEM","Level 1 triage","Escalation"],
+"blocks":[
+{"t":"cards","h2":"What Level 1 covers","items":[
+{"h3":"Alert monitoring and triage","p":"Analysts review alerts as they arrive and decide which ones matter."},
+{"h3":"False-positive filtering","p":"Noise is separated from real activity so your team is not chasing every alert."},
+{"h3":"Classification and severity","p":"Each confirmed alert is categorized and rated using an agreed scale."},
+{"h3":"Escalation by playbook","p":"Confirmed incidents go to your team or to L2 and L3 responders, with the details they need."},
+{"h3":"Ticketing and shift handover","p":"Every alert is tracked in a ticket, and context passes cleanly between shifts."},
+{"h3":"Reporting and tuning","p":"Daily, weekly and monthly security health reports, with recommendations to improve detection use cases."}]},
+{"t":"chips","h2":"SIEM platforms we work with","lead":"Your platform, or one we help you choose.","items":["LogRhythm","IBM QRadar","Microsoft Sentinel","Elastic Security","Wazuh"]},
+{"t":"steps","h2":"How onboarding works","items":[
+["Scope and log sources","Agree what is monitored and connect the log sources."],
+["Access and use cases","Set up platform access and the detection use cases that matter to you."],
+["Playbooks and escalation","Define who is contacted, when and how."],
+["Go-live and tuning","Start monitoring, then tune rules to cut noise."],
+["Regular reporting","Review results with you on a set schedule."]]},
+{"t":"note","text":"Coverage hours, response times and escalation contacts are agreed in your service agreement. Level 1 handles monitoring and first-line triage. Deeper investigation and response are escalated under the agreed playbooks, or handled through our incident response service."},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Do we need our own SIEM?","You can use one you already run. If you do not have one yet, we can help you choose and set up a platform that fits your size and budget."],
+["What is the difference between L1, L2 and L3?","Level 1 monitors and triages alerts. Level 2 investigates confirmed incidents in depth. Level 3 handles the most complex cases and threat hunting. We provide Level 1 and hand off according to your playbooks."],
+["Can you monitor cloud and endpoints as well as networks?","Yes, as long as the relevant logs are collected in your SIEM. We help connect cloud, endpoint and network sources."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"vCISO and outsourced security","p":"A security leader or a full security department, on demand.","link":["See vCISO services","vciso"]},
+{"h3":"Cybersecurity services","p":"Audits, secure engineering, forensics and incident response.","link":["See cybersecurity services","cybersecurity"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]}]}]}

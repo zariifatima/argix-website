@@ -1,0 +1,26 @@
+{"slug":"startups","kind":"industry","crumb":"Startups and MVPs","eyebrow":"Industries",
+"meta":["MVP Development for Startups | Argix","MVP development for startups: product scoping, web and mobile MVPs, scalable architecture and security from day one, with SOC 2 readiness when you need it."],
+"h1":"From idea to a secure MVP, ready for your first customers and investors","lead":"We help founders build the first version of their product quickly, without the security shortcuts that cause problems when the first enterprise customer or investor looks closely.",
+"chipsTop":{"label":"Key standards","items":["OWASP ASVS","SOC 2","GDPR"]},
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"Product scoping and prototypes","p":"We agree what goes into the first version, so you launch sooner and spend less."},
+{"h3":"Web and mobile MVPs","p":"A working product your first customers can use, on web, mobile or both.","link":["See web application development","web-app-development"]},
+{"h3":"Architecture that can grow","p":"A cloud setup that handles your first users and scales when you need it.","link":["See DevOps and cloud","devops-cloud"]},
+{"h3":"Sign-in, payments and integrations","p":"User accounts, subscriptions and connections to the tools you rely on.","link":["See APIs and integrations","api-integration"]},
+{"h3":"AI features","p":"Assistants, search and automation where they make the product better.","link":["See AI solutions","ai-solutions"]}]},
+{"t":"lists","h2":"Security from day one","lead":"Fixing security later is slower and more expensive than building it in.","cols":[
+{"h3":"In the first version","items":["Secure sign-in and access control","Encryption for sensitive data","A secure cloud setup","Security basics that pass early customer reviews"]},
+{"h3":"As you grow","items":["Penetration test before launch","SOC 2 readiness when enterprise customers ask","Help with investor security questions","Support and scaling after launch"]}]},
+{"t":"cards","h2":"Ways to work with us","items":[
+{"h3":"Fixed-scope MVP","p":"An agreed first version with a clear price and timeline."},
+{"h3":"Dedicated team after launch","p":"Engineers who keep building your product, month to month."},
+{"h3":"Support and maintenance","p":"Updates, fixes, monitoring and security patches."}]},
+{"t":"note","text":"Already selling to larger customers? See our enterprise and SaaS solutions for SOC 2, single sign-on and security reviews.","link":["Enterprise and SaaS solutions","enterprise-saas"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["How long does an MVP take?","It depends on scope. After a short discovery phase we agree what goes into the first version and give you a timeline and a fixed price."],
+["Will we need to rebuild it later?","Not if it is planned well. We keep the first version small but build it on an architecture that can grow, so you extend it instead of starting over."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Enterprise and SaaS","p":"Secure SaaS products, ready for SOC 2 and customer security reviews.","link":["See enterprise and SaaS solutions","enterprise-saas"]},
+{"h3":"Web application development","p":"Portals, dashboards and business systems on .NET and Angular.","link":["See web application development","web-app-development"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

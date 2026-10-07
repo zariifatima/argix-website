@@ -1,0 +1,224 @@
+{
+ "slug": "custom-software",
+ "kind": "service",
+ "crumb": "Custom software development",
+ "eyebrow": "Software development",
+ "meta": [
+  "Custom Software Development Company | Argix",
+  "Custom software development for web, mobile and APIs on .NET, Angular and Python. Secure by design, tested before launch and ready for audit."
+ ],
+ "h1": "Custom software built around how your business runs",
+ "lead": "Web, mobile and API software with security designed in from the first sprint, tested before launch and handed over with full documentation.",
+ "flow": [
+  "Plan",
+  "Build",
+  "Test",
+  "Secure",
+  "Launch"
+ ],
+ "blocks": [
+  {
+   "t": "cards",
+   "h2": "What we build",
+   "lead": "From customer portals to internal platforms.",
+   "items": [
+    {
+     "h3": "Web applications",
+     "p": "Customer portals, internal systems and real-time dashboards on ASP.NET Core and Angular.",
+     "link": [
+      "See web application development",
+      "web-app-development"
+     ]
+    },
+    {
+     "h3": "Mobile apps",
+     "p": "iOS and Android apps with secure login and encrypted data, connected to your systems.",
+     "link": [
+      "See mobile app development",
+      "mobile-app-development"
+     ]
+    },
+    {
+     "h3": "APIs and integrations",
+     "p": "REST and GraphQL APIs and secure connections to payment providers, CRMs, ERPs and partners.",
+     "link": [
+      "See APIs and integrations",
+      "api-integration"
+     ]
+    },
+    {
+     "h3": "Websites and e-commerce",
+     "p": "Company websites, WordPress themes and plugins, and WooCommerce stores.",
+     "link": [
+      "See websites and e-commerce",
+      "websites-ecommerce"
+     ]
+    },
+    {
+     "h3": "Legacy modernization",
+     "p": "Move aging systems to current platforms in stages, without stopping the business."
+    },
+    {
+     "h3": "Data and automation",
+     "p": "Reporting pipelines, dashboards and workflow automation that replace manual spreadsheet work."
+    }
+   ]
+  },
+  {
+   "t": "chips",
+   "h2": "Technology we use",
+   "items": [
+    ".NET and ASP.NET Core",
+    "Angular",
+    "Python",
+    "Django",
+    "FastAPI",
+    "Laravel",
+    "WordPress and WooCommerce",
+    "Azure",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+   ]
+  },
+  {
+   "t": "lists",
+   "h2": "Built secure and tested",
+   "lead": "Security and quality are part of the build, not a separate phase.",
+   "cols": [
+    {
+     "h3": "Security in the code",
+     "items": [
+      "OWASP Top 10 mitigations built in",
+      "Input validation and output encoding",
+      "Secure authentication and session handling",
+      "Content security policy and XSS hardening",
+      "Secrets kept out of source code"
+     ]
+    },
+    {
+     "h3": "QA and performance testing",
+     "items": [
+      "Manual and automated QA",
+      "Performance and load testing",
+      "Cross-browser and device testing",
+      "WCAG 2.1 AA accessibility checks",
+      "Penetration test before launch"
+     ]
+    }
+   ],
+   "id": "qa"
+  },
+  {
+   "t": "steps",
+   "h2": "How a project runs",
+   "lead": "Six stages, each with a clear result.",
+   "items": [
+    [
+     "Discovery and consultation",
+     "We define goals, users, scope and how success will be measured."
+    ],
+    [
+     "Strategy and architecture",
+     "We design a scalable architecture and a roadmap aligned with your business."
+    ],
+    [
+     "Secure development",
+     "Short sprints with a working demo at the end of each one."
+    ],
+    [
+     "Security integration",
+     "Security checks are built into the pipeline and every environment."
+    ],
+    [
+     "Testing and penetration test",
+     "QA, load testing and a security test before anything goes live."
+    ],
+    [
+     "Launch and support",
+     "Staged release, documentation, training and ongoing support if you want it."
+    ]
+   ]
+  },
+  {
+   "t": "cards",
+   "h2": "Ways to work with us",
+   "lead": "Choose the model that fits your project and your team.",
+   "items": [
+    {
+     "h3": "Fixed-scope project",
+     "p": "A defined build with an agreed price and timeline, delivered in short sprints."
+    },
+    {
+     "h3": "Dedicated development team",
+     "p": "Engineers who work only on your product, month to month, alongside your own team."
+    },
+    {
+     "h3": "Support and maintenance",
+     "p": "Updates, fixes, monitoring and security patches after launch."
+    }
+   ]
+  },
+  {
+   "t": "bullets",
+   "h2": "What you receive",
+   "lead": "What is handed over when the project is done.",
+   "items": [
+    "Technical and user documentation",
+    "An automated test suite",
+    "A deployment pipeline you can run yourself",
+    "A penetration test report",
+    "Handover and training for your team"
+   ]
+  },
+  {
+   "t": "faq",
+   "h2": "Common questions",
+   "lead": "Something missing? Ask on the consultation call and we will answer it straight.",
+   "items": [
+    [
+     "Can you take over an application that another team built?",
+     "Yes. We start with a security assessment, then agree a plan to stabilize, secure and extend it."
+    ],
+    [
+     "Which technology should we choose?",
+     "We recommend based on your team, budget and integrations, not our preferences. ASP.NET Core and Angular are common for enterprise systems, and we choose mobile technology based on what your app needs."
+    ],
+    [
+     "How do you work day to day?",
+     "In short sprints with a demo at the end of each one. Projects can be fixed-scope, a dedicated team, or billed monthly."
+    ]
+   ]
+  },
+  {
+   "t": "related",
+   "h2": "Related services",
+   "items": [
+    {
+     "h3": "Web application development",
+     "p": "Portals, dashboards and business systems on .NET and Angular.",
+     "link": [
+      "See web application development",
+      "web-app-development"
+     ]
+    },
+    {
+     "h3": "DevOps and cloud",
+     "p": "Secure pipelines, containers and cloud infrastructure.",
+     "link": [
+      "See DevOps and cloud",
+      "devops-cloud"
+     ]
+    },
+    {
+     "h3": "Penetration testing (VAPT)",
+     "p": "Manual testing with a report your developers and auditors can use.",
+     "link": [
+      "See penetration testing",
+      "penetration-testing"
+     ]
+    }
+   ]
+  }
+ ]
+}

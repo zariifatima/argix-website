@@ -1,0 +1,6 @@
+ASSETS TO BE SUPPLIED BY ARGIX (not available to the build tool; do not replace with invented artwork)
+- logo-white.svg   real Argix logo for dark backgrounds (shown in navbar and footer automatically when present)
+- og-image.png     social share image (then add og:image and twitter:image meta tags to index.html)
+- favicon          real Argix favicon (current favicon.svg is a plain letter stand-in)
+- Client logos     American TelePhysicians, Cura4U, SmartClinix, Bizauras, UDHC (site currently shows names as text)
+- Certification badge images (site currently shows certification names as text)

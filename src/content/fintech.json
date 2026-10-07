@@ -1,0 +1,31 @@
+{"slug":"fintech","kind":"industry","crumb":"Fintech and financial services","eyebrow":"Industries",
+"meta":["Fintech and Banking Software Development | Argix","Fintech and banking software: payments, lending, KYC onboarding, digital banking and core integration, with PCI DSS readiness and security testing."],
+"h1":"Fintech and banking software, built for trust and scrutiny","lead":"Payment, lending and digital banking products, designed with the security controls that partner banks, regulators and enterprise customers expect.",
+"chipsTop":{"label":"Key standards","items":["PCI DSS","KYC and AML","SOC 2","ISO/IEC 27001"]},
+"blocks":[
+{"t":"cards","h2":"What we build for fintech","items":[
+{"h3":"Payments and gateway integrations","p":"Payment flows, processor and gateway integrations, subscriptions and payouts, with card data kept out of your systems wherever possible."},
+{"h3":"Digital wallets and accounts","p":"Wallets, stored value and account management with strong authentication and transaction controls."},
+{"h3":"Lending and loan origination","p":"Application, scoring, approval, disbursement and repayment workflows."},
+{"h3":"Customer onboarding (KYC and AML)","p":"Identity verification, document checks and screening built into a smooth sign-up flow."},
+{"h3":"Open banking and partner APIs","p":"Secure APIs and integrations with banks, processors and third-party providers.","link":["See APIs and integrations","api-integration"]},
+{"h3":"Fraud detection and reporting","p":"Transaction monitoring, fraud signals, reconciliation and management reporting, with AI-assisted analysis where it helps."}]},
+{"t":"cards","h2":"What we build for banks and financial institutions","lead":"Banks cannot stop, so we modernize in stages, running old and new side by side where needed.","items":[
+{"h3":"Digital banking apps","p":"Secure web and mobile banking for retail, corporate and internal users."},
+{"h3":"Core banking integration","p":"Connect new digital channels to existing core banking, payment and card systems."},
+{"h3":"API layer over legacy systems","p":"Expose legacy functionality through modern, secured APIs without a risky rewrite."},
+{"h3":"Regulatory and management reporting","p":"Automated reporting and data pipelines that reduce manual effort and error."}]},
+{"t":"lists","h2":"Security and compliance for financial services","lead":"Partner banks, regulators and enterprise customers will review your security. We help you pass.","cols":[
+{"h3":"Built-in controls","items":["Secure API design and testing","Tokenization and encryption for sensitive data","Key and secret management","Strong authentication and fraud controls","Audit trails for every sensitive action"]},
+{"h3":"Readiness and proof","items":["PCI DSS scoping and readiness","SOC 2 and ISO 27001 readiness","Penetration testing before launch and after major changes","SOC monitoring and incident response support"]}]},
+{"t":"note","text":"Financial regulation differs by country. We work to the requirements that apply where you operate and map them with you on the first call. This is not legal advice."},
+{"t":"chips","h2":"Technology and standards","items":["REST and GraphQL APIs","Microservices","Azure","AWS","PCI DSS","SOC 2","ISO/IEC 27001","OWASP ASVS","GDPR"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Can you help us pass a partner bank's security review?","Yes. We prepare the evidence banks ask for: architecture documentation, a penetration test report, policies and completed security questionnaires."],
+["Do you store or process card data?","We design systems to reduce what you store, and to keep card data with a certified payment provider where possible, which shrinks PCI DSS scope."],
+["Can you work alongside our core banking vendor?","Yes. We build around the systems you already run and integrate through their supported interfaces."],
+["How do you keep a bank running during modernization?","We modernize in stages, run old and new side by side where needed, and test thoroughly before each cutover."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"APIs and integrations","p":"Secure APIs that connect payments, CRMs, ERPs and partners.","link":["See APIs and integrations","api-integration"]}]}]}

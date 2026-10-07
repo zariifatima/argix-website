@@ -1,0 +1,22 @@
+{"slug":"ecommerce-retail","kind":"industry","crumb":"E-commerce and retail","eyebrow":"Industries",
+"meta":["E-commerce and Retail Software and Security | Argix","E-commerce and retail software: WooCommerce and custom stores, payment integrations, PCI DSS readiness, checkout penetration testing and fraud protection."],
+"h1":"Online stores that are fast, secure and ready for card payments","lead":"WooCommerce and custom stores with the payment security, fraud protection and monitoring that online retail needs.",
+"chipsTop":{"label":"Key standards","items":["PCI DSS","OWASP Top 10","GDPR"]},
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"WooCommerce and custom stores","p":"Stores built around your products, pricing and fulfillment.","link":["See websites and e-commerce","websites-ecommerce"]},
+{"h3":"Payment gateway integration","p":"Card and wallet payments through your payment provider, with card data kept off your servers."},
+{"h3":"Inventory and accounting connections","p":"Stock, orders and invoices kept in sync with the systems you already use."},
+{"h3":"Order and fulfillment workflows","p":"Order tracking, returns and shipping updates for customers and staff."},
+{"h3":"Fast page loading","p":"Quick product and checkout pages that keep shoppers from leaving."}]},
+{"t":"lists","h2":"Security for online stores","cols":[
+{"h3":"Protecting payments","items":["PCI DSS readiness, with card data kept with the payment provider","Checkout penetration testing","Bot and fraud protection"]},
+{"h3":"Keeping the store up","items":["Web application firewall","WordPress and plugin hardening","Daily backups and uptime monitoring"]}]},
+{"t":"chips","h2":"Standards and practices","items":["PCI DSS","OWASP Top 10","GDPR","Core Web Vitals"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Do we need PCI DSS if we use a payment provider?","Usually yes, but the scope is much smaller when card data never touches your servers. We help you design it that way and complete the right self-assessment."],
+["Can you protect our store from bots and fraud?","Yes. We add bot protection, rate limits and fraud checks at checkout, tuned so real customers are not blocked."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Websites and e-commerce","p":"Fast, secure WordPress sites and WooCommerce stores.","link":["See websites and e-commerce","websites-ecommerce"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]}]}]}

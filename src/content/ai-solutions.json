@@ -1,0 +1,29 @@
+{"slug":"ai-solutions","kind":"service","crumb":"AI solutions","eyebrow":"AI",
+"meta":["AI Development, AI Security and Governance | Argix","AI solutions: assistants, document intelligence and workflow automation, plus AI security testing and AI governance for healthcare, fintech and banking."],
+"h1":"AI that removes work, built and secured properly","lead":"We add AI to products and workflows where it reduces effort or improves access to information. We also test and govern AI systems the way we test any other software that handles your data.",
+"flow":["Your data","AI model","Safety checks","Your app"],
+"blocks":[
+{"t":"cards","h2":"Build AI into your software","items":[
+{"h3":"AI assistants and chatbots","p":"Conversational assistants for customers, staff or clinicians, working from your own content."},
+{"h3":"Document intelligence","p":"Search, summarize and extract information from long contracts, clinical notes, reports and forms."},
+{"h3":"Workflow automation","p":"Reduce repetitive administrative work by automating routing, data entry and follow-up."},
+{"h3":"AI features inside products","p":"Smart search, classification, recommendations and forecasting added to applications you already run."},
+{"h3":"Healthcare AI","p":"AI scribe, ambient listening that turns conversations into structured notes, and document tools for providers."},
+{"h3":"Financial services AI","p":"Fraud signals, automated document checks during onboarding and customer service assistants."}]},
+{"t":"lists","h2":"Secure the AI you use","lead":"AI applications have their own attack surface and their own governance needs.","cols":[
+{"h3":"AI security testing","p":"We test AI applications the way an attacker would.","items":["Prompt injection and jailbreaking","Leakage of sensitive or private data","Unsafe handling of model output","Excessive permissions given to AI agents and tools","Weak access control on the data an AI can reach"]},
+{"h3":"AI governance","p":"Clear rules for how AI is used in your organization.","items":["AI usage policies for staff","AI risk assessments","Vendor and model risk reviews","Data protection and privacy checks","Readiness against ISO/IEC 42001 and the NIST AI Risk Management Framework"]}]},
+{"t":"note","text":"The OWASP Top 10 for LLM Applications is one of the references we use when testing AI systems."},
+{"t":"steps","h2":"How we approach AI projects","lead":"We say so when AI is not the right tool for a problem.","items":[
+["Define the problem","Start with the task you want to improve and how you will measure it."],
+["Prove it on a small scope","Test the idea on real data before committing to a full build."],
+["Build and secure","Develop the feature with access controls, logging and a security test."],
+["Measure and improve","Track results against the goal and refine over time."]]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Will our data be used to train public models?","We choose providers and configurations that do not train on your data, and we document exactly where data flows before anything is built."],
+["Can you add AI to our existing product?","Yes. We can add features to an existing application, or build a separate service that connects to it through an API."],
+["Can you test an AI application we already run?","Yes. Our penetration testing covers AI applications, including prompt injection, data leakage and agent permissions."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Custom software development","p":"Web, mobile and API software with security built in.","link":["See custom software development","custom-software"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"Healthcare","p":"EHR, interoperability, AI and digital health software.","link":["See healthcare solutions","healthcare"]}]}]}

@@ -1,0 +1,30 @@
+{"slug":"soc-2-type-1-vs-type-2","category":"Compliance","date":"2026-09-24","dateLabel":"24 September 2026","read":"3 min read",
+"meta":["SOC 2 Type I vs Type II: which one do you need first?","The difference between SOC 2 Type I and Type II reports, how long each takes, and how to decide which one to start with."],
+"h1":"SOC 2 Type I vs Type II: which one do you need first?","lead":"The difference between SOC 2 Type I and Type II reports, how long each takes, and how to decide which one to start with.",
+"intro":["Sooner or later, a larger customer sends a security questionnaire that asks one question before all the others: \"Do you have a SOC 2 report?\" If the answer is no, the next question is usually which type you should get. This guide explains the difference between SOC 2 Type I and Type II in plain language, and how to decide where to start."],
+"sections":[
+{"h2":"What a SOC 2 report is","body":[
+{"p":"SOC 2 is an attestation report, not a certificate. An independent CPA firm examines how your organization protects customer data and gives its opinion on your controls, measured against the AICPA's Trust Services Criteria."},
+{"p":"There are five criteria categories:"},
+{"ul":["**Security** (required in every SOC 2 report)","**Availability**","**Processing integrity**","**Confidentiality**","**Privacy**"]},
+{"p":"Most companies start with security alone and add others only when customers ask for them."}]},
+{"h2":"Type I: are your controls designed correctly?","body":[
+{"p":"A Type I report looks at your controls at a **single point in time**. The auditor checks whether the controls you describe are suitably designed and in place on a specific date."},
+{"p":"It answers the question: \"On this date, did the company have the right controls?\""}]},
+{"h2":"Type II: do your controls work over time?","body":[
+{"p":"A Type II report covers a **period of time**, usually somewhere between three and twelve months, called the observation period. The auditor tests whether your controls actually operated effectively throughout that period, for example by checking samples of access reviews, change approvals and incident records."},
+{"p":"It answers a harder question: \"Did the company follow its controls, consistently, for months?\""}]},
+{"h2":"Which one do customers want?","body":[
+{"p":"Enterprise customers usually prefer Type II, because it shows your controls work in practice, not just on paper. Many will still accept a Type I report as a first step, especially from a growing company, as long as a Type II is planned."}]},
+{"h2":"How to decide where to start","body":[
+{"p":"Start with **Type I** if:"},
+{"ol":["A customer needs evidence soon and you do not yet have months of control history.","Your controls are new, and you want an auditor's view of the design before the observation period starts."]},
+{"p":"Go straight to **Type II** if:"},
+{"ol":["Your controls have been running reliably for a while and you can show evidence.","Your key customers have said they will only accept Type II."]},
+{"p":"A common path is a Type I report first, followed by a Type II observation period that starts soon after."}]},
+{"h2":"What readiness involves","body":[
+{"p":"Before the auditor arrives, most teams work through the same steps:"},
+{"ol":["**Scope:** decide which systems, teams and criteria the report covers.","**Gap assessment:** compare what you do today with what the criteria require.","**Policies:** write practical policies your team will actually follow.","**Controls:** put technical controls in place, such as multi-factor authentication, access reviews, change management, logging and backups.","**Evidence:** collect proof that each control operates, as you go.","**Testing:** many customers and auditors also expect a recent penetration test."]}]},
+{"h2":"Summary","body":[
+{"p":"Type I shows your controls are designed well on a given date. Type II shows they worked over months, which is what most enterprise customers ultimately want. If you need something to show customers soon, a Type I report followed by a Type II is a practical route. Either way, a gap assessment is the right first step, because it tells you what is missing and how long readiness will take."}]}],
+"cta":{"h2":"Need help with this?","text":"Talk to an Argix engineer about GRC and compliance.","link":["See GRC and compliance","grc-compliance"]}}

@@ -1,0 +1,22 @@
+{"slug":"devops-cloud","kind":"service","crumb":"DevOps and cloud","eyebrow":"Software development",
+"meta":["DevOps and Cloud Services on Azure and AWS | Argix","DevOps and cloud services: CI/CD, DevSecOps, Docker, Kubernetes, infrastructure as code and cloud security reviews on Azure and AWS."],
+"h1":"DevOps and cloud infrastructure you can rebuild from code","lead":"Automated, secure delivery pipelines and cloud environments on Azure and AWS, with security checks built into every release.",
+"flow":["Code","Build","Security checks","Deploy","Monitor"],
+"blocks":[
+{"t":"cards","h2":"What we do","items":[
+{"h3":"CI/CD pipelines","p":"Automated build, test and deployment so releases are frequent, repeatable and reversible."},
+{"h3":"DevSecOps","p":"Code scanning, dependency checks, secret detection and container scanning added to the pipeline, so problems are caught before release."},
+{"h3":"Containers and Kubernetes","p":"Docker images and Kubernetes clusters set up to scale, with secure defaults."},
+{"h3":"Infrastructure as code","p":"Environments defined in code, so they can be reviewed, versioned and rebuilt quickly."},
+{"h3":"Cloud setup and migration","p":"New environments and moves to Azure and AWS, with cost, availability and security planned in."},
+{"h3":"Monitoring and backup","p":"Logging, alerts, uptime monitoring, backups and recovery plans that have actually been tested."}]},
+{"t":"lists","h2":"Cloud security review","lead":"We review existing AWS, Azure and Google Cloud accounts, then fix what we find.","cols":[
+{"h3":"What we check","items":["Identity and access management","Network exposure and segmentation","Storage and database configuration","Encryption and key management","Logging and alerting coverage"]},
+{"h3":"What you get","items":["A prioritized list of findings","Fixes applied, or handed to your team","A repeatable baseline for new environments","Evidence for SOC 2, ISO 27001 or HIPAA audits"]}]},
+{"t":"chips","h2":"Platforms and practices","items":["Azure","AWS","Google Cloud (security reviews)","Docker","Kubernetes","Infrastructure as code","CI/CD","DevSecOps","Monitoring and logging"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Do we need Kubernetes?","Not always. For many applications a simpler managed service is cheaper and easier to run. We recommend Kubernetes only when the scale or architecture justifies it."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Custom software development","p":"Web, mobile and API software with security built in.","link":["See custom software development","custom-software"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]}]}]}

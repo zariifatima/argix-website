@@ -1,0 +1,31 @@
+{"slug":"penetration-testing","kind":"service","crumb":"Penetration testing (VAPT)","eyebrow":"Cybersecurity",
+"meta":["Penetration Testing and VAPT Services | Argix","Penetration testing and VAPT for web apps, APIs, mobile apps, networks and cloud, with an audit-ready report for PCI DSS, SOC 2, ISO 27001 and HIPAA."],
+"h1":"Penetration testing (VAPT) with a report your auditor can use","lead":"Hands-on vulnerability assessment and penetration testing for web apps, APIs, mobile apps, networks and cloud, ending with clear findings, fixes and a retest.",
+"flow":["Scope","Test","Report","Fix","Retest"],
+"blocks":[
+{"t":"cards","h2":"What we test","items":[
+{"h3":"Web applications and APIs","p":"Testing against the OWASP Top 10 and ASVS: authentication, access control, injection and business logic flaws."},
+{"h3":"Network and infrastructure","p":"External and internal testing of servers, firewalls, VPNs and Active Directory."},
+{"h3":"Mobile applications","p":"Testing of iOS and Android apps together with the APIs behind them."},
+{"h3":"Cloud environments","p":"Configuration and exposure testing for AWS, Azure and Google Cloud."},
+{"h3":"AI applications","p":"Prompt injection, data leakage and agent permission testing for LLM-based systems.","link":["See AI solutions","ai-solutions"]},
+{"h3":"Red team and adversary simulation","p":"Goal-based attack simulation that tests people, process and technology together."}]},
+{"t":"steps","h2":"How a test runs","items":[
+["Scoping and rules of engagement","We agree what is in scope, what is off limits and when testing happens."],
+["Testing","Manual testing supported by tools, following recognized methodology."],
+["Reporting","A report written for both management and developers."],
+["Remediation support","We answer your developers' questions and explain each fix."],
+["Retest","We verify the serious findings are closed and update the report."]]},
+{"t":"lists","h2":"The report","lead":"The report is the deliverable most clients actually need.","cols":[
+{"h3":"What is in it","items":["Executive summary for management","Scope, method and limits of the test","Findings ranked by severity, with evidence","Step-by-step remediation guidance","Retest results confirming fixes"]},
+{"h3":"Where it is used","items":["PCI DSS, which requires regular penetration testing","SOC 2 and ISO 27001 audits, where auditors commonly ask for recent test reports","HIPAA security risk analysis evidence","Customer security questionnaires and procurement reviews"]}]},
+{"t":"note","text":"A penetration test report is evidence for your auditor. It supports compliance work but does not by itself make a system compliant or certified. Testing is done by our security engineers, separate from the developers who wrote the code."},
+{"t":"chips","h2":"Standards and references","items":["OWASP Top 10","OWASP ASVS","NIST SP 800-115","CVSS scoring"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["How long does a test take?","Most web application tests take one to three weeks, depending on size and complexity. We confirm a schedule when we agree scope."],
+["Will testing disrupt our live systems?","We agree rules of engagement first, prefer test environments where possible and coordinate timing for anything sensitive."],
+["Do you retest after we fix the issues?","Yes. A retest of the serious findings is part of the service, and the final report shows what was fixed."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"GRC and compliance","p":"SOC 2, ISO 27001, HIPAA and PCI DSS readiness.","link":["See GRC and compliance","grc-compliance"]},
+{"h3":"Custom software development","p":"Web, mobile and API software with security built in.","link":["See custom software development","custom-software"]},
+{"h3":"SOC monitoring","p":"Level 1 monitoring and triage on the SIEM you already run.","link":["See SOC monitoring","soc-monitoring"]}]}]}

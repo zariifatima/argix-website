@@ -1,0 +1,27 @@
+{"slug":"grc-compliance","kind":"service","crumb":"GRC and compliance","eyebrow":"Cybersecurity",
+"meta":["GRC and Compliance: SOC 2, ISO 27001, HIPAA | Argix","GRC and compliance consulting for SOC 2, ISO 27001, HIPAA and PCI DSS: gap assessments, policies, controls, evidence and audit support."],
+"h1":"GRC and compliance readiness for SOC 2, ISO 27001 and HIPAA","lead":"Governance, risk and compliance work that gets you audit-ready without drowning your team in paperwork. We build the controls, write the policies and support you through the audit.",
+"flow":["Gap assessment","Controls","Evidence","Audit"],
+"blocks":[
+{"t":"cards","h2":"Frameworks we support","items":[
+{"h3":"ISO/IEC 27001:2022","p":"Information security management system design and implementation, risk assessment and treatment, Statement of Applicability, internal audit, management review and certification readiness."},
+{"h3":"SOC 2 Type I and Type II","p":"Readiness across the trust services criteria (security, availability, confidentiality, processing integrity and privacy), control design, evidence collection and audit support."},
+{"h3":"HIPAA","p":"Security Rule safeguards, risk analysis, policies, workforce training and business associate arrangements for healthcare organizations and their vendors."},
+{"h3":"PCI DSS","p":"Scoping, gap analysis, remediation and support with the assessment for teams that handle card data."}]},
+{"t":"steps","h2":"How we take you to audit-ready","items":[
+["Gap assessment","Compare what you do today with what the framework requires."],
+["Risk assessment","Identify and rank the risks that matter to your business."],
+["Policies and controls","Write practical policies and implement the technical controls."],
+["Evidence and internal audit","Collect evidence as you go, then test it before the auditor does."],
+["Audit support","Prepare your team and answer auditor requests alongside you."],
+["Stay compliant","Regular reviews and monitoring so the work does not lapse."]]},
+{"t":"bullets","h2":"What you receive","items":["Gap assessment report","Risk register and treatment plan","Policies, procedures and templates","Implemented technical controls","An evidence library organized for your auditor","Internal audit report"]},
+{"t":"note","text":"Who issues the certificate: ISO 27001 certificates are issued by accredited certification bodies, and SOC 2 reports are issued by licensed CPA firms. HIPAA has no official certification. We prepare you and work with your auditor. We do not issue certificates ourselves."},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["How long does SOC 2 or ISO 27001 readiness take?","It depends on your starting point and size. Many small and mid-sized companies need several months. A gap assessment gives you a realistic timeline."],
+["Should we start with SOC 2 Type I or Type II?","Type I checks that controls are designed correctly at one point in time. Type II checks that they worked over a period. Many customers ask for Type II, and starting with Type I is common."],
+["Can you also run our penetration test?","Yes. Testing is part of most compliance programs, and we can align the report to the framework you are working toward."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]},
+{"h3":"vCISO and outsourced security","p":"A security leader or a full security department, on demand.","link":["See vCISO services","vciso"]},
+{"h3":"Healthcare","p":"EHR, interoperability, AI and digital health software.","link":["See healthcare solutions","healthcare"]}]}]}

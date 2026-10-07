@@ -1,0 +1,23 @@
+{"slug":"websites-ecommerce","kind":"service","crumb":"Websites and e-commerce","eyebrow":"Software development",
+"meta":["WordPress and WooCommerce Website Development | Argix","WordPress and WooCommerce website development: custom themes and plugins, headless WordPress, firewall setup, backups and uptime monitoring."],
+"h1":"Fast, secure websites and online stores","lead":"Company websites and WooCommerce stores that load quickly, rank well and stay protected after launch.",
+"flow":["Online store","Firewall","Backups, monitoring"],
+"blocks":[
+{"t":"cards","h2":"What we build","items":[
+{"h3":"Company websites","p":"Professional websites that explain what you do and turn visitors into enquiries."},
+{"h3":"Custom WordPress themes and plugins","p":"Built for your content and workflow, without bloated page builders."},
+{"h3":"WooCommerce stores","p":"Online stores with the payment, shipping and product features you need."},
+{"h3":"Headless WordPress","p":"WordPress for content, with a fast custom front end."},
+{"h3":"Payment and shipping integrations","p":"Checkout, delivery rates and order tracking connected to your providers."},
+{"h3":"Redesigns and migrations","p":"Move to a new design or platform while keeping your search rankings."}]},
+{"t":"lists","h2":"Protected and fast","cols":[
+{"h3":"Security","items":["Web application firewall","WordPress and plugin hardening","Daily backups","Uptime monitoring","Security test of forms and checkout"]},
+{"h3":"Performance and SEO","items":["Fast loading and Core Web Vitals","Mobile-friendly design","Basic SEO setup","Accessibility checks"]}]},
+{"t":"note","text":"Running an online business? See our e-commerce and retail solutions for payment security, PCI DSS and fraud protection.","link":["See e-commerce and retail solutions","ecommerce-retail"]},
+{"t":"faq","h2":"Common questions","lead":"Something missing? Ask on the consultation call and we will answer it straight.","items":[
+["Do you maintain the website after launch?","Yes. Support plans cover updates, backups, monitoring and security patches."],
+["Can you move our existing site to WordPress?","Yes. We migrate your content and set up redirects so you keep your search rankings."]]},
+{"t":"related","h2":"Related services","items":[
+{"h3":"E-commerce and retail","p":"Fast, secure online stores ready for card payments.","link":["See e-commerce and retail solutions","ecommerce-retail"]},
+{"h3":"DevOps and cloud","p":"Secure pipelines, containers and cloud infrastructure.","link":["See DevOps and cloud","devops-cloud"]},
+{"h3":"Penetration testing (VAPT)","p":"Manual testing with a report your developers and auditors can use.","link":["See penetration testing","penetration-testing"]}]}]}

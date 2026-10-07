@@ -1,0 +1,85 @@
+{
+ "slug": "privacy",
+ "updated": "7 October 2026",
+ "meta": [
+  "Privacy Policy | Argix",
+  "How Argix handles information shared through this website, the contact form and WhatsApp."
+ ],
+ "h1": "Privacy policy",
+ "lead": "How Argix handles the information you share with us. Last updated 7 October 2026.",
+ "sections": [
+  {
+   "h2": "Who we are",
+   "body": [
+    {
+     "p": "Argix (\"we\", \"us\") provides custom software development, AI and cybersecurity services, with offices in Islamabad, Pakistan and Ottawa, Canada. You can reach us at {email}."
+    }
+   ]
+  },
+  {
+   "h2": "What we collect",
+   "body": [
+    {
+     "p": "When you email us, message us on WhatsApp or use the contact form, we receive the details you choose to share, such as your name, work email address, phone number, company and the message you write. The contact form on this website does not send anything to our servers. It opens a draft in your own email app, addressed to {email}, and we receive it only if you send that email. We do not run advertising trackers on this website."
+    }
+   ]
+  },
+  {
+   "h2": "How we use it",
+   "body": [
+    {
+     "ul": [
+      "To reply to your enquiry and arrange a consultation.",
+      "To prepare proposals and follow up on projects you ask us about."
+     ]
+    },
+    {
+     "p": "We do not sell your information. We share it only with service providers that help us run our business, and where the law requires it."
+    }
+   ]
+  },
+  {
+   "h2": "Service providers",
+   "body": [
+    {
+     "p": "Emails you send us are handled by your email provider and ours. WhatsApp conversations are handled by WhatsApp, a Meta service, under its own privacy policy. This website loads fonts from Google Fonts, so Google receives technical information such as your IP address when your browser requests them."
+    }
+   ]
+  },
+  {
+   "h2": "Analytics and cookies",
+   "body": [
+    {
+     "p": "This website does not currently use analytics and does not set analytics cookies. If we turn on Google Analytics in future, it will load only if you accept it in Cookie settings, and this policy will be updated at that time."
+    },
+    {
+     "p": "The Cookie settings link at the bottom of every page opens a dialog where you can record your choice. If you make one, it is saved in your browser's local storage on your own device so we do not ask on every page. It is not sent to us, and you can change it at any time."
+    }
+   ]
+  },
+  {
+   "h2": "How long we keep it",
+   "body": [
+    {
+     "p": "We keep enquiry details for as long as needed to respond and to keep a record of our conversations, and delete them when they are no longer needed."
+    }
+   ]
+  },
+  {
+   "h2": "Your rights",
+   "body": [
+    {
+     "p": "Depending on where you live, you may have the right to access, correct or delete the personal information we hold about you. To make a request, email us at {email}."
+    }
+   ]
+  },
+  {
+   "h2": "Changes",
+   "body": [
+    {
+     "p": "We may update this policy from time to time. The date at the top shows when it was last changed."
+    }
+   ]
+  }
+ ]
+}
